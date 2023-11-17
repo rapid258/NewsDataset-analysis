@@ -1,14 +1,14 @@
-# Analisis de News category Dataset
+# Analisis the News category Dataset
 
-Método de limpieza y análisis del set de datos  
+Data set cleaning and analysis method
 [News category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)
 ## Como usar
 
-Esta realizado en un notebook de jupyter.
+It is made in a Jupyter notebook.
 
-### Prerequisitos
+### Prerequisites
 
-Para funcionar debería tener instalado:
+To work you should have installed:
 * numpy
 * pandas
 * matplotlib
@@ -16,14 +16,14 @@ Para funcionar debería tener instalado:
 * emoji
 * nltk con sus librerias corpus y tokenize
 * sklearn
-* tensorflow.keras con su libreria keras
+* TensorFlow.keras con su libreria keras
 * textblob
 
 
 
 ### Instalación
 
-Usa el requirements.txt del repositorio.
+Use the requirements.txt from the repository.
 
 ```
 pip install -r requirements.txt
@@ -69,8 +69,3 @@ Use the requirements.txt of the repository.
 ``
 pip install -r requirements.txt
 ``
-
-
-## Author
-
-* ** Mario Javier Gonzalez Gil **
