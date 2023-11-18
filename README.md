@@ -4,7 +4,7 @@ Data set cleaning and analysis method
 [News category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)
 ## How to use
 
-It is made in a Jupyter notebook.
+It is made in a Jupyter notebook.0
 
 ### Prerequisites
 
